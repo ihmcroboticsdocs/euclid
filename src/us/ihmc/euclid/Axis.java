@@ -9,7 +9,7 @@ import us.ihmc.euclid.tuple3D.interfaces.Vector3DReadOnly;
  */
 public enum Axis implements Vector3DReadOnly
 {
-   /** The x-axis is usually associated with the forward direction. THIS IS A TEST */
+   /** The x-axis is usually associated with the forward direction. */
    X(1.0, 0.0, 0.0),
    /**
     * The y-axis is usually associated with the direction pointing to the left of the forward direction
@@ -71,7 +71,7 @@ public enum Axis implements Vector3DReadOnly
    }
 
    /**
-    * Gets the value of the tuple for the given axis.
+    * Gets the value of the tuple for the given axis AND THIS IS A TEST.
     *
     * @param tuple the tuple to get value from. Not modified.
     * @param axis the {@link Axis} to get value for. Not modified.
