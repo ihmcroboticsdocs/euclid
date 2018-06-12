@@ -9,7 +9,7 @@ import us.ihmc.euclid.tuple3D.interfaces.Vector3DReadOnly;
  */
 public enum Axis implements Vector3DReadOnly
 {
-   /** The x-axis is usually associated with the forward direction. */
+   /** The x-axis is usually associated with the forward direction. THIS IS A TEST */
    X(1.0, 0.0, 0.0),
    /**
     * The y-axis is usually associated with the direction pointing to the left of the forward direction
