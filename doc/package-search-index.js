@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"us.ihmc.euclid.referenceFrame.exceptions"}]
+packageSearchIndex = [{"l":"us.ihmc.euclid"}]
