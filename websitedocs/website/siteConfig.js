@@ -11,8 +11,8 @@
 const siteConfig = {
   title: 'IHMC Robotics' /* title for your website */,
   tagline: 'Our Open Source Software Documentation',
-  url: 'https://ihmcroboticsdocs.github.io' /* your website url */,
-  baseUrl: '/euclid/' /* base url for your project */,
+  url: 'https://ihmcroboticsdocs.github.io/euclid' /* your website url */,
+  baseUrl: '/' /* base url for your project */,
 
   // Used for publishing and more
   projectName: 'euclid',
@@ -32,7 +32,10 @@ const siteConfig = {
       href: 'http://robots.ihmc.us/',
       label: 'About',
     },
-    {blog: true, label: 'Blog'},
+    {
+      href: 'https://ihmcroboticsdocs.github.io/blog/',
+      label: 'Blog',
+    }
   ],
 
   /* path to images for header/footer */
