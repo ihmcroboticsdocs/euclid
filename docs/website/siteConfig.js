@@ -47,7 +47,7 @@ const siteConfig = {
   },
 
   //Directory with the markdown documentation fikles
-  customDocsPath: 'documentation',
+  //customDocsPath: 'documentation',
 
   /* custom fonts for website */
   /*fonts: {
