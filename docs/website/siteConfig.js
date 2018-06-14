@@ -20,8 +20,14 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'quickstarthome', label: 'Quick Start'},
-    {doc: 'docshome', label: 'Docs'},
+    {
+      href: 'https://ihmcroboticsdocs.github.io/docs/quickstarthome.html',
+      label: 'Quick Start',
+    },
+     {
+      href: 'https://ihmcroboticsdocs.github.io/docs/docshome.html',
+      label: 'Docs',
+    },
     {
       href: 'http://robots.ihmc.us/',
       label: 'About',
