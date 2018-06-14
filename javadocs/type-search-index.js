@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"us.ihmc.euclid","l":"Axis"}]
