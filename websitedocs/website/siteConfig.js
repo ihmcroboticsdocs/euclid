@@ -79,7 +79,7 @@ const siteConfig = {
   onPageNav: 'separate',
 
   /* Javadoc CSS */
-  
+  stylesheets: ['https://docusaurus.io/style.css', 'static/javadocs/stylesheet.css']
 
 
   // You may provide arbitrary config keys to be used as needed by your
