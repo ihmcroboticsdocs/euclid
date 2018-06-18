@@ -79,8 +79,7 @@ const siteConfig = {
   onPageNav: 'separate',
 
   /* Javadoc CSS */
-  stylesheets: ['https://docusaurus.io/style.css', 'static/javadocs/stylesheet.css']
-
+  separateCss: ['static/javadocs']
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
