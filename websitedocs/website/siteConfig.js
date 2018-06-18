@@ -79,10 +79,9 @@ const siteConfig = {
   onPageNav: 'separate',
 
   /* Javadoc CSS */
-  separateCss: ['static/css','static/javadocs/stylesheet.css', 'static/javadocs/euclid', 'static/javadocs/index-files',
+  /* separateCss: ['static/css','static/javadocs/stylesheet.css', 'static/javadocs/euclid', 'static/javadocs/index-files',
                 'static/javadocs/jquery', 'static/javadocs/resources', 'static/javadocs/us'],
-
-  stylesheets: ['static/javadocs/stylesheet.css']              
+     */    
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
