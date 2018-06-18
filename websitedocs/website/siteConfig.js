@@ -49,9 +49,6 @@ const siteConfig = {
     secondaryColor: '#4283c9',
   },
 
-  //Directory with the markdown documentation fikles
-  //customDocsPath: 'documentation',
-
   /* custom fonts for website */
   /*fonts: {
     myFont: [
@@ -80,6 +77,9 @@ const siteConfig = {
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
+
+  /* Javadoc CSS */
+  
 
 
   // You may provide arbitrary config keys to be used as needed by your
