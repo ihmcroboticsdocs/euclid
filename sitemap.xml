@@ -5,4 +5,7 @@
 <url> <loc>https://ihmcroboticsdocs.github.io/euclid/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://ihmcroboticsdocs.github.io/euclid/docs/euclidhome.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ihmcroboticsdocs.github.io/euclid/docs/euclidhome.html" /> </url>
 <url> <loc>https://ihmcroboticsdocs.github.io/euclid/docs/euclidjavadocs.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ihmcroboticsdocs.github.io/euclid/docs/euclidjavadocs.html" /> </url>
+<url> <loc>https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarfirst.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarfirst.html" /> </url>
+<url> <loc>https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarhome.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarhome.html" /> </url>
+<url> <loc>https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarsecond.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarsecond.html" /> </url>
 </urlset>
