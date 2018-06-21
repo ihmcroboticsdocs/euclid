@@ -77,10 +77,6 @@ const siteConfig = {
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
-
-  /* Javadoc CSS */
-  separateCss: ['static/javadocs','static/javadocs/stylesheet.css', 'static/javadocs/euclid', 'static/javadocs/index-files',
-                'static/javadocs/jquery', 'static/javadocs/resources', 'static/javadocs/us'],
      
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
