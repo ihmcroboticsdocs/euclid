@@ -11,7 +11,7 @@
 const siteConfig = {
   title: 'IHMC Robotics' /* title for your website */,
   tagline: 'Our Open Source Software Documentation',
-  url: 'https://ihmcroboticsdocs.github.io/euclid' /* your website url */,
+  url: 'https://ihmcroboticsdocs.github.io' /* your website url */,
   baseUrl: '/euclid/' /* base url for your project */,
 
   // Used for publishing and more
