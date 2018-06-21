@@ -24,3 +24,5 @@ The goal for Euclid is to become the most flexible, easy to use, and fast librar
 See our [github repository](https://github.com/ihmcrobotics/euclid).
 
 See our [javadocs](https://ihmcroboticsdocs.github.io/euclid/docs/euclidjavadocs).
+
+Link to [sidebar](https://ihmcroboticsdocs.github.io/euclid/docs/testsidebarhome)

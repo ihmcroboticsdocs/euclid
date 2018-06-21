@@ -1,5 +1,5 @@
  {
-     "test-sidebar": {
-    "Sidebar": ["testsidebarhome", "testsidebarfirst", "testsidebarsecond"]
+     "euclid-sidebar": {
+    "Euclid Docs": ["euclidhome", "euclidjavadocs"]
   }
 }
