@@ -9,8 +9,8 @@
 // site configuration options.
 
 const siteConfig = {
-  title: 'IHMC Robotics' /* title for your website */,
-  tagline: 'Our Open Source Software Documentation',
+  title: 'Euclid' /* title for your website */,
+  tagline: 'IHMC Euclid Documentation',
   url: 'https://ihmcroboticsdocs.github.io' /* your website url */,
   baseUrl: '/euclid/' /* base url for your project */,
 
@@ -21,20 +21,16 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {
-      href: 'https://ihmcroboticsdocs.github.io/docs/quickstarthome.html',
-      label: 'Quick Start',
+      href: 'https://ihmcroboticsdocs.github.io',
+      label: 'IHMC Home',
     },
      {
       href: 'https://ihmcroboticsdocs.github.io/docs/docshome.html',
-      label: 'Docs',
+      label: 'All IHMC Docs',
     },
     {
       href: 'http://robots.ihmc.us/',
-      label: 'About',
-    },
-    {
-      href: 'https://ihmcroboticsdocs.github.io/blog/',
-      label: 'Blog',
+      label: 'About IHMC',
     }
   ],
 
