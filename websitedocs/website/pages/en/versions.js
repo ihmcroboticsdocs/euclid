@@ -33,7 +33,7 @@ class Versions extends React.Component {
                 <tr>
                   <th>{latestVersion}</th>
                   <td>
-                    <a href={''}>Documentation</a>
+                    <a href={'https://ihmcroboticsdocs.github.io/euclid/docs/euclidhome.html'}>Documentation</a>
                   </td>
                   <td>
                     <a href={''}>Release Notes</a>
@@ -80,8 +80,8 @@ class Versions extends React.Component {
               </tbody>
             </table>
             <p>
-              You can find past versions of this project{'https://github.com/ihmcroboticsdocs/euclid/releases'}
-              <a href="https://github.com/"> on GitHub </a>.
+              You can find past versions of this project{''}
+              <a href="https://github.com/ihmcroboticsdocs/euclid/releases"> on GitHub </a>.
             </p>
           </div>
         </Container>
