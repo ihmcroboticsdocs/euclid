@@ -22,3 +22,4 @@ Any software developer manipulating geometry objects or dealing with 2D or 3D gr
 The goal for Euclid is to become the most flexible, easy to use, and fast library for geometry applications, so it results in great increase in development productivity. 
 
 See our [github repository](https://github.com/ihmcrobotics/euclid).
+See our [versions](https://ihmcroboticsdocs.github.io/euclid/pages/en/versions.html)
