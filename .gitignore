@@ -81,3 +81,5 @@
 **/gradlew
 **/gradlew.bat
 **/generatedTestSuites/*TestSuite.java
+
+.vscode
